@@ -2,7 +2,8 @@
 An applicant facing resume scanner made using python.
 # CareerFit | Applicant ATS Scanner 💼
 
-**CareerFit** is an AI-powered, applicant-centric resume and job matching system. Instead of acting as a corporate filter, it empowers job seekers to test their master resume against multiple job descriptions simultaneously—identifying their highest-probability matches, highlighting skill overlaps, and pinpointing exact keyword gaps before applying.
+**CareerFit** is an AI-powered, applicant-centric resume and job matching system. Instead of acting as a corporate filter, it empowers job seekers to test their master resume against multiple job descriptions simultaneously—identifying their highest-probability matches, highlighting skill overlaps, and pinpointing exact keyword gaps before applying. Install all dependencies, open in terminal and "python -m streamlit run app.py"
+
 
 ---
 
